@@ -1,8 +1,9 @@
+<!-- markdownlint-disable MD013 -->
 
 # Docker Image for Ansible compatible with mitogen
 
-This docker image contains ansbile version 2.10.7 that is the last one compatible with mitogen, in order to speed up heavy deployements.
-It also contains all the required packages and collections in order to create vms and to manage them.
+This docker image contains ansbile version 2.10.7 that is the last one compatible with mitogen.
+Also contains all the required packages and collections in order to create vms and to manage them.
 
 On gitlab > Settings > repository > deploy token
 
